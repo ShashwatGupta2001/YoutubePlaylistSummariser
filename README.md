@@ -53,7 +53,7 @@ This project is designed to extract transcripts from YouTube videos, identify vi
 
 - Update the `youtube_urls` list with the URLs of the YouTube videos you want to process.
 - Set the `playlist_name` and `summary_folder` variables to specify where the reports will be saved.
-- Run the script:
+- Run the colab notebook (can also be copied as video_summary_generator.py):
   ```bash
   python video_summary_generator.py
   ```
