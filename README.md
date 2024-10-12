@@ -1,8 +1,4 @@
-Here's a detailed `README.md` that describes the provided code and its functionality:
-
----
-
-# Video Transcript Summarizer with Image References
+# Video Playlist Summarizer with Image References
 
 ## Overview
 
@@ -17,6 +13,7 @@ This project is designed to extract transcripts from YouTube videos, identify vi
 - **Report Generation**: Creates structured reports with figures and clickable links to specific timestamps in the video.
 - **HTML Report Export**: Saves the report as an HTML file, including video information and referenced figures.
 - **File Versioning**: Automatically creates a versioned filename to avoid overwriting existing files.
+- **Question Answering**: Ask questions on differeint .html files from playlist using FAISS
 
 ## Prerequisites
 
